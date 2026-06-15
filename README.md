@@ -16,8 +16,7 @@ The repository does not redistribute ModelNet40, ScanObjectNN, or S3DIS. Please 
 
 ## Example Commands
 
-See `autodl_multi_order_experiments.md` for the training and evaluation commands used in the paper.
-
+The training and evaluation commands are provided in `autodl_multi_order_experiments.md` inside the code snapshot archive.
 ## Code Availability
 
 The code is released to support reproducibility of the manuscript.
